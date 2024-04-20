@@ -5,7 +5,7 @@ main{
 	border-left-width: 5px;
 	padding: 10px 10px 10px 10px;
 }
-h1{
+heading{
 	font-size:20px;
 	color: white;
 	text-decoration:underline;
